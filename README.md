@@ -33,3 +33,7 @@ Setup a counter composable with increment, decrement, reset, setValue functions 
 Implemented vuex for state management. 
 
 The functionality was housed in a page with route - ‘/counter’ any other route redirects the user to a 404 page handled by a wildcard route.
+
+
+## PROJECT HOSTED LINK
+https://illustrious-faloodeh-9c3c93.netlify.app/counter
