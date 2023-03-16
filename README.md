@@ -25,11 +25,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-
-Create a new vue js application using the cli
-
-setup a counter composable with increment, decrement, reset, setValue functions with a valid UI
-
-You can use local state or vuex for state management albeit using vuex will attract higher marks
-
-house your functionality in a page with route - ‘/counter’ any other route should redirect the user to a 404 page handled by your wildcard route.
+### project features
+Created a new vue js application using the cli
+Setup a counter composable with increment, decrement, reset, setValue functions with a valid UI
+Implemented vuex for state management
+The functionality was housed in a page with route - ‘/counter’ any other route redirects the user to a 404 page handled by a wildcard route.
