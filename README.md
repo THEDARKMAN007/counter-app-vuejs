@@ -39,4 +39,4 @@ The functionality was housed in a page with route - ‘/counter’ any other rou
 
 
 ## PROJECT HOSTED LINK
-https://illustrious-faloodeh-9c3c93.netlify.app/counter
+https://illustrious-faloodeh-9c3c93.netlify.app/
