@@ -25,7 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-### project features
+## project features
 Created a new vue js application using the cli.
 
 Setup a counter composable with increment, decrement, reset, setValue functions with a valid UI.
