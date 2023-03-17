@@ -25,11 +25,18 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
+## project features
+Created a new vue js application using the cli.
 
-Create a new vue js application using the cli
+Setup a counter composable with increment, decrement, reset, setValue functions with a valid UI.
 
-setup a counter composable with increment, decrement, reset, setValue functions with a valid UI
+Implemented vuex for state management. 
 
-You can use local state or vuex for state management albeit using vuex will attract higher marks
+The functionality was housed in a page with route - ‘/counter’ any other route redirects the user to a 404 page handled by a wildcard route.
 
-house your functionality in a page with route - ‘/counter’ any other route should redirect the user to a 404 page handled by your wildcard route.
+
+
+
+
+## PROJECT HOSTED LINK
+https://illustrious-faloodeh-9c3c93.netlify.app/
