@@ -42,7 +42,7 @@ export default {
 
 <style scoped>
 .counterComponent {
-  height: 100vh;
+  height: 80vh;
   display: grid;
   place-items: center;
 }

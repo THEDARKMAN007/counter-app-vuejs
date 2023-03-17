@@ -32,7 +32,7 @@ export default {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 header {
-  background:gray;
+  background:rgb(72, 115, 254);
 }
 nav {
   margin-inline: auto;
