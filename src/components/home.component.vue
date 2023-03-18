@@ -20,7 +20,6 @@ export default {
 
 <style scoped>
 .home {
-  border: 1px solid black;
   height: max(600px,100vh);
   display: flex;
   flex-direction: column;
