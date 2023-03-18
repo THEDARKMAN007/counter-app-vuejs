@@ -20,7 +20,8 @@ export default {
 
 <style scoped>
 .home {
-  height: 100vh;
+  border: 1px solid black;
+  height: max(600px,100vh);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,6 +35,7 @@ export default {
 }
 
 img {
-  width: 100%;
+  width: 200px;
+  height: 200px;
 }
 </style>

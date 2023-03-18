@@ -3581,7 +3581,7 @@ __metadata:
     tailwindcss: ^3.2.7
     vue: ^2.6.14
     vue-composable: ^1.0.0-beta.24
-    vue-router: 2.8.1
+    vue-router: 2.4.0
     vue-template-compiler: ^2.6.14
     vuex: ^4.1.0
   languageName: unknown
@@ -9113,10 +9113,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue-router@npm:2.8.1":
-  version: 2.8.1
-  resolution: "vue-router@npm:2.8.1"
-  checksum: 0cc882f1b909c26245fed0a5e634c69009023fb1b82a266487e1241068952f0fc114bb5a4557414101b4a696a28ff8772ee2d5c8b45ae4b9815f82e34dafea1e
+"vue-router@npm:2.4.0":
+  version: 2.4.0
+  resolution: "vue-router@npm:2.4.0"
+  checksum: b9f288c1f18498f51ef243727a46a2a4d9f5bb6b394a60238360092abc9c256e82b3f2f63f33cd4f5b0a4e699bdcb2136cbe855f37027c9af6b83a577c54ab9a
   languageName: node
   linkType: hard
 
